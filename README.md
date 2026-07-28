@@ -1,2 +1,0 @@
-# signalbot
-signal for telegram
